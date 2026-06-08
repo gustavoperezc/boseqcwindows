@@ -24,7 +24,7 @@ Opens with `python main.py` in the folder where you dumped the files.
 
 ## Important limitations
 
-This is a technical proof of concept created by Gustavo Pérez, not an official Bose app. The command path implemented here
+This is not an official Bose app. The command path implemented here
 is based on current public reverse engineering for QC35/QC35 II:
 
 * BMAP packet format: `[fblock, function, flags, payload_length, payload...]`
