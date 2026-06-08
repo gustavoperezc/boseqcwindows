@@ -1,0 +1,30 @@
+2026-06-08 14:39:55,489 INFO bluetooth_client: Connecting to 4C:87:5D:0B:52:63 on RFCOMM channel 8 using winsock
+2026-06-08 14:39:55,491 INFO bluetooth_client: winsock failed: connect failed: WSA error 10049
+2026-06-08 14:39:55,491 INFO bluetooth_client: Connecting to 4C:87:5D:0B:52:63 on RFCOMM channel 8 using python-socket
+2026-06-08 14:39:55,545 INFO bluetooth_client: Connected with backend python-socket
+2026-06-08 14:39:55,545 INFO bluetooth_client: TX 00 01 01 00
+2026-06-08 14:39:55,696 INFO bluetooth_client: RX 00 01 03 05 31 2E 30 2E 34
+2026-06-08 14:39:58,938 INFO bluetooth_client: TX 01 06 02 01 03
+2026-06-08 14:39:59,089 INFO bluetooth_client: RX 01 06 03 02 03 0B 01 06 03 02 03 0B
+2026-06-08 14:39:59,657 INFO bluetooth_client: TX 01 06 02 01 01
+2026-06-08 14:39:59,807 INFO bluetooth_client: RX 01 06 03 02 01 0B 01 06 03 02 01 0B
+2026-06-08 14:40:00,341 INFO bluetooth_client: TX 01 06 02 01 00
+2026-06-08 14:40:00,492 INFO bluetooth_client: RX 01 06 03 02 00 0B 01 06 03 02 00 0B
+2026-06-08 14:40:03,591 INFO bluetooth_client: TX 01 06 02 01 03
+2026-06-08 14:40:03,741 INFO bluetooth_client: RX 01 06 03 02 03 0B 01 06 03 02 03 0B
+2026-06-08 14:40:04,478 INFO bluetooth_client: TX 01 06 02 01 01
+2026-06-08 14:40:04,628 INFO bluetooth_client: RX 01 06 03 02 01 0B 01 06 03 02 01 0B
+2026-06-08 14:40:05,050 INFO bluetooth_client: TX 01 06 02 01 00
+2026-06-08 14:40:05,200 INFO bluetooth_client: RX 01 06 03 02 00 0B 01 06 03 02 00 0B
+2026-06-08 14:44:27,061 INFO bluetooth_client: Connecting to 4C:87:5D:0B:52:63 on RFCOMM channel 8 using winsock
+2026-06-08 14:44:27,062 INFO bluetooth_client: winsock failed: connect failed: WSA error 10049
+2026-06-08 14:44:27,062 INFO bluetooth_client: Connecting to 4C:87:5D:0B:52:63 on RFCOMM channel 8 using python-socket
+2026-06-08 14:44:27,105 INFO bluetooth_client: Connected with backend python-socket
+2026-06-08 14:44:27,105 INFO bluetooth_client: TX 00 01 01 00
+2026-06-08 14:44:27,256 INFO bluetooth_client: RX 00 01 03 05 31 2E 30 2E 34
+2026-06-08 14:44:43,766 INFO bluetooth_client: TX 01 06 02 01 01
+2026-06-08 14:44:43,916 INFO bluetooth_client: RX 01 06 03 02 01 0B 01 06 03 02 01 0B
+2026-06-08 14:44:44,423 INFO bluetooth_client: TX 01 06 02 01 03
+2026-06-08 14:44:44,573 INFO bluetooth_client: RX 01 06 03 02 03 0B 01 06 03 02 03 0B
+2026-06-08 14:44:45,076 INFO bluetooth_client: TX 01 06 02 01 00
+2026-06-08 14:44:45,226 INFO bluetooth_client: RX 01 06 03 02 00 0B 01 06 03 02 00 0B

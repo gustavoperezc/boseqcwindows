@@ -1,0 +1,5 @@
+# No mandatory third-party dependencies.
+# Tkinter ships with the standard Windows Python installer.
+#
+# Optional fallback if the native Winsock backend fails on your setup:
+# pybluez2
