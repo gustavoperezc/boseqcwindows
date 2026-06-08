@@ -38,8 +38,6 @@ If your headset firmware does not respond, try:
 1. Make sure the non-LE Bose device is paired in Windows.
 2. Power the headphones on and connect them as an audio device first.
 3. Keep the default channel `8`, then test channels `1` to `30` if needed.
-4. Close the Bose phone app while testing, because only one controller may own
-   the control socket at a time.
 
 ## Install
 
