@@ -1,6 +1,6 @@
 # Bose QC35 II ANC Control for Windows
 
-Interface screenshot (/interface.png)
+Interface screenshot (/userinterface.png)
 
 Small Python/Tkinter proof of concept to control Bose QuietComfort 35 / 35 II
 noise cancellation from Windows over Bluetooth RFCOMM, without the phone app.
