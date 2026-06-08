@@ -131,5 +131,6 @@ Created by Gustavo Perez as an independent technical proof of concept for Bose Q
 * Microsoft SOCKADDR_BTH: https://learn.microsoft.com/windows/win32/api/ws2bth/ns-ws2bth-sockaddr_bth
 * Microsoft RFCOMM overview: https://learn.microsoft.com/windows/apps/develop/devices-sensors/send-or-receive-files-with-rfcomm
 * PyBluez docs: https://pybluez.readthedocs.io/en/latest/api/bluetooth_socket.html
-* Personal website: https://gustdev.com/
 * bosectl: https://github.com/aaronsb/bosectl
+* Personal website: https://gustdev.com/
+
