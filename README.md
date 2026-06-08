@@ -2,6 +2,7 @@
 
 Created by Gustavo Perez.
 
+Interface screenshot (/screenshot.png)
 Small Python/Tkinter proof of concept to control Bose QuietComfort 35 / 35 II
 noise cancellation from Windows over Bluetooth RFCOMM, without the phone app.
 
