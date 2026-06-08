@@ -1,7 +1,5 @@
 # Bose QC35 II ANC Control for Windows
 
-Created by Gustavo Perez.
-
 Interface screenshot (/interface.png)
 
 Small Python/Tkinter proof of concept to control Bose QuietComfort 35 / 35 II
