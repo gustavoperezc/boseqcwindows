@@ -2,6 +2,8 @@
 
 Interface screenshot (/userinterface.png)
 
+Update: Added a pre-built portable version with instructions included: **BoseQC35AncControl-portable.zip**
+
 Small Python/Tkinter proof of concept to control Bose QuietComfort 35 / 35 II
 noise cancellation from Windows over Bluetooth RFCOMM, without the phone app.
 
